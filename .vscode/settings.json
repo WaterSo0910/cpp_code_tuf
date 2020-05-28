@@ -1,5 +1,5 @@
 {
-    
+
     "auto-close-tag.fullMode": true,
     "blade.format.enable": true,
     "diffEditor.ignoreTrimWhitespace": true,
@@ -105,5 +105,6 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp"
-    }
+    },
+    "code-runner.runInTerminal": true,
 }
